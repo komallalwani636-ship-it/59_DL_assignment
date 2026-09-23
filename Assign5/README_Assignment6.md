@@ -1,4 +1,4 @@
-# Practical 5 – Convolutional Neural Network (CNN) for Image Classification
+# Practical 6 – Convolutional Neural Network (CNN) for Image Classification
 
 **Subject:** Deep Learning
 **Department:** CSE-AI | **Semester:** 5 | **Academic Year:** 2026-27
